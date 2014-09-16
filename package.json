@@ -1,0 +1,22 @@
+{
+  "name": "poject_billing",
+  "version": "1.0.0",
+  "description": "Project Billing Tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blondo/project_billing.git"
+  },
+  "author": "Manuel Hertach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blondo/project_billing/issues"
+  },
+  "homepage": "https://github.com/blondo/project_billing",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}

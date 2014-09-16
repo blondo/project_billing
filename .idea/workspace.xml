@@ -2,58 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79b40b9e-0fc6-4de7-8250-dc1867de3f01" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/History.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/Makefile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/Readme.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/lib/sass.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/spec/fixtures/collect.sass" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/spec/fixtures/comment.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/spec/fixtures/comment.sass" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/spec/fixtures/continuation.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/spec/fixtures/continuation.sass" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/spec/fixtures/literal.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/spec/fixtures/literal.sass" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/spec/fixtures/mixin.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/spec/fixtures/mixin.multiple.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/spec/fixtures/mixin.multiple.sass" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/spec/fixtures/mixin.sass" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/spec/fixtures/mixin.undefined.sass" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/spec/fixtures/properties.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/spec/fixtures/properties.expand.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/spec/fixtures/properties.expand.sass" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/spec/fixtures/properties.invalid.sass" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/spec/fixtures/properties.nested.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/spec/fixtures/properties.nested.invalid.sass" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/spec/fixtures/properties.nested.sass" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/spec/fixtures/properties.sass" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/spec/fixtures/selectors.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/spec/fixtures/selectors.sass" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/spec/fixtures/variables.alternate.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/spec/fixtures/variables.alternate.sass" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/spec/fixtures/variables.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/spec/fixtures/variables.dependent.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/spec/fixtures/variables.dependent.sass" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/spec/fixtures/variables.regular.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/spec/fixtures/variables.regular.sass" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/spec/fixtures/variables.sass" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/spec/lib/images/bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/spec/lib/images/hr.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/spec/lib/images/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/spec/lib/images/sprites.bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/spec/lib/images/sprites.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/spec/lib/images/vr.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/spec/lib/jspec.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/spec/lib/jspec.growl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/spec/lib/jspec.jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/spec/lib/jspec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/spec/lib/jspec.nodejs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/spec/lib/jspec.shell.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/spec/lib/jspec.timers.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/spec/lib/jspec.xhr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/spec/node.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sass/spec/spec.core.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/project_billing.iml" afterPath="$PROJECT_DIR$/.idea/project_billing.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/projectbilling.sql" afterPath="$PROJECT_DIR$/assets/projectbilling.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="project_billing.iws" />
@@ -76,7 +32,17 @@
     <favorites_list name="project_billing" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="Gruntfile.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/foundation/Gruntfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="38" selection-start="335" selection-end="335" vertical-scroll-proportion="0.34210527" vertical-offset="0" max-vertical-offset="585">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -92,6 +58,9 @@
         <option value="$PROJECT_DIR$/node_modules/sass/package.json" />
         <option value="$PROJECT_DIR$/project_billing/Gruntfile.js" />
         <option value="$PROJECT_DIR$/project_billing/package.json" />
+        <option value="$PROJECT_DIR$/assets/foundation/Gruntfile.js" />
+        <option value="$PROJECT_DIR$/system/core/index.php" />
+        <option value="$PROJECT_DIR$/assets/foundation/scss/_settings.scss" />
       </list>
     </option>
   </component>
@@ -127,13 +96,22 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="project_billing" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project_billing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project_billing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -164,12 +142,111 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project_billing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project_billing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project_billing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project_billing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project_billing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project_billing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="foundation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project_billing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project_billing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="foundation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project_billing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project_billing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="foundation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bower_components" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -206,11 +283,11 @@
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3295964" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3295964" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -242,48 +319,43 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/project_billing/Gruntfile.js">
+    <entry file="file://$PROJECT_DIR$/assets/foundation/Gruntfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="41" selection-start="443" selection-end="443" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="585">
+        <state line="13" column="38" selection-start="335" selection-end="335" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="585">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_billing/bower.json">
+    <entry file="file://$PROJECT_DIR$/assets/foundation/Gruntfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="864" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project_billing/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="864" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project_billing/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2535" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/sass/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="4" selection-start="4" selection-end="4" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="840" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project_billing/bower_components/foundation/scss/foundation.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project_billing/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="26" selection-start="102" selection-end="102" vertical-scroll-proportion="0.10989011" vertical-offset="0" max-vertical-offset="546">
+        <state line="27" column="0" selection-start="537" selection-end="537" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="585">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_billing/Gruntfile.js">
+    <entry file="file://$PROJECT_DIR$/assets/foundation/scss/app.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="41" selection-start="443" selection-end="443" vertical-scroll-proportion="0.5" vertical-offset="0" max-vertical-offset="585">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/core/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="8" selection-start="166" selection-end="166" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="240" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/core/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/foundation/scss/_settings.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="123" column="19" selection-start="3253" selection-end="3253" vertical-scroll-proportion="0.34548944" vertical-offset="1665" max-vertical-offset="21690" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/foundation/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="38" selection-start="335" selection-end="335" vertical-scroll-proportion="0.34210527" vertical-offset="0" max-vertical-offset="585">
           <folding />
         </state>
       </provider>
