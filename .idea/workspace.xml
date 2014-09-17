@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79b40b9e-0fc6-4de7-8250-dc1867de3f01" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/project_billing.iml" afterPath="$PROJECT_DIR$/.idea/project_billing.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/projectbilling.sql" afterPath="$PROJECT_DIR$/assets/projectbilling.sql" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="79b40b9e-0fc6-4de7-8250-dc1867de3f01" name="Default" comment="" />
     <ignored path="project_billing.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,7 +26,7 @@
       <file leaf-file-name="Gruntfile.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/foundation/Gruntfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="38" selection-start="335" selection-end="335" vertical-scroll-proportion="0.34210527" vertical-offset="0" max-vertical-offset="585">
+            <state line="13" column="16" selection-start="332" selection-end="332" vertical-scroll-proportion="0.34210527" vertical-offset="0" max-vertical-offset="600">
               <folding />
             </state>
           </provider>
@@ -96,6 +86,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -246,7 +237,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -321,6 +311,13 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assets/foundation/Gruntfile.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="16" selection-start="332" selection-end="332" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="600">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/foundation/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="38" selection-start="335" selection-end="335" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="585">
           <folding />
         </state>
@@ -355,7 +352,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/foundation/Gruntfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="38" selection-start="335" selection-end="335" vertical-scroll-proportion="0.34210527" vertical-offset="0" max-vertical-offset="585">
+        <state line="13" column="16" selection-start="332" selection-end="332" vertical-scroll-proportion="0.34210527" vertical-offset="0" max-vertical-offset="600">
           <folding />
         </state>
       </provider>
